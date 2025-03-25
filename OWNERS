@@ -1,0 +1,20 @@
+approvers:
+  - bfournie
+  - derekhiggins
+  - dtantsur
+  - elfosardo
+  - iurygregory
+  - hardys
+  - zaneb
+reviewers:
+  - bfournie
+  - derekhiggins
+  - dtantsur
+  - elfosardo
+  - iurygregory
+  - hardys
+  - zaneb
+
+# Bugzilla Information
+component: "Bare Metal Hardware Provisioning"
+subcomponent: "ironic"
